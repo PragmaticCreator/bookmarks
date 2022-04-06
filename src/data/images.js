@@ -1,0 +1,12 @@
+export { default as heroBg } from 'assets/images/hero-bg.png';
+export { default as Arrow } from 'assets/images/icon-arrow.svg?component';
+export { default as featuresTab1 } from 'assets/images/illustration-features-tab-1.png';
+export { default as featuresTab2 } from 'assets/images/illustration-features-tab-2.png';
+export { default as featuresTab3 } from 'assets/images/illustration-features-tab-3.png';
+export { default as logoWhite } from 'assets/images/logo-bookmark-white.png';
+export { default as Logo } from 'assets/images/logo-bookmark.svg?component';
+export { default as Chrome } from 'assets/images/logo-chrome.svg?component';
+export { default as Firefox } from 'assets/images/logo-firefox.svg?component';
+export { default as Opera } from 'assets/images/logo-opera.svg?component';
+export {default as BgDots} from 'assets/images/bg-dots.svg?component';
+export {default as Error} from 'assets/images/icon-error.svg?component';
