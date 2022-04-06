@@ -26,10 +26,6 @@ body {
   margin-top: 150px;
 }
 
-.section-alt {
-  margin-top: 140px;
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
